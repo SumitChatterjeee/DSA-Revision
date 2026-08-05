@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
 | ------- |
