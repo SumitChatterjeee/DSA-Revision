@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1406-stone-game-iii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
