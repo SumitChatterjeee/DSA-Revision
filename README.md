@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
