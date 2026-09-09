@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
