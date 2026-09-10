@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-distinct-subsequences-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |
