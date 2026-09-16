@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3871-count-commas-in-range-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
