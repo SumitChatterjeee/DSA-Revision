@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/0486-predict-the-winner) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SumitChatterjeee/DSA-Revision/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
